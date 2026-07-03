@@ -2,7 +2,7 @@
 
 I'm a B.Tech Computer Science (AI & ML) student at VIT Vellore.
 
-I work on Machine Learning, Computer Vision, and software development projects. I enjoy building applications, contributing to open-source projects, and learning how AI systems are built and deployed.
+I'm interested in Machine Learning, Computer Vision, and software development. I spend most of my time building projects, contributing to open source, participating in hackathons, and learning by working on real-world problems.
 
 ## 🛠 Tech Stack
 
