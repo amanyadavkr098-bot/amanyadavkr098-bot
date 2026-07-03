@@ -20,6 +20,4 @@ I work on Machine Learning, Computer Vision, and software development projects. 
 
 ## Connect
 
-* GitHub: github.com/amanyadavkr098-bot
-* LinkedIn: linkedin.com/in/amanyadavkr098
 * Email: [amanyadavkr098@gmail.com](mailto:amanyadavkr098@gmail.com)
