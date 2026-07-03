@@ -1,38 +1,25 @@
-Hi, I'm Aman Yadav 👋
+# Hi, I'm Aman Yadav 👋
 
-AI & ML Engineer | Open Source Contributor | Computer Vision Enthusiast
+I'm a B.Tech Computer Science (AI & ML) student at VIT Vellore.
 
-🎓 B.Tech in Computer Science & Engineering (AI & ML) at VIT Vellore
+I work on Machine Learning, Computer Vision, and software development projects. I enjoy building applications, contributing to open-source projects, and learning how AI systems are built and deployed.
 
-I enjoy building AI-powered applications, exploring Computer Vision, and contributing to open-source projects. My focus is on creating practical solutions that combine Machine Learning, software engineering, and real-world impact.
+## What I Work With
 
-🚀 What I Do
+**Languages:** Python, C++, C, SQL, JavaScript
 
-- Build Machine Learning and AI applications
-- Develop Computer Vision solutions using YOLOv8 and OpenCV
-- Contribute to open-source projects and collaborate with developers worldwide
-- Explore Agentic AI systems and AI-powered developer tools
-- Continuously learn and apply modern AI technologies
+**AI & ML:** Scikit-Learn, OpenCV, YOLOv8, Pandas, NumPy
 
-🛠 Tech Stack
+**Development:** FastAPI, Streamlit, Git, GitHub, Linux
 
-Languages: Python, C++, C, SQL, JavaScript
+## Experience
 
-AI / ML: Scikit-Learn, OpenCV, YOLOv8, Pandas, NumPy
+* Built projects in Machine Learning, Computer Vision, and data analysis
+* Contributed to open-source projects through issues and pull requests
+* Participated in hackathons and coding competitions
 
-Development: FastAPI, Streamlit, Git, GitHub, Linux
+## Connect
 
-🌟 Highlights
-
-- Built projects in Machine Learning, Computer Vision, and Data Analysis
-- Active Open Source Contributor with merged pull requests
-- Participant in Hackathons, AI Challenges, and Coding Competitions
-- Passionate about transforming ideas into production-ready solutions
-
-📫 Connect With Me
-
-- GitHub: github.com/amanyadavkr098-bot
-- LinkedIn: linkedin.com/in/amanyadavkr098
-- Email: amanyadavkr098@gmail.com
-
-«Building intelligent systems, contributing to open source, and learning something new every day.»
+* GitHub: github.com/amanyadavkr098-bot
+* LinkedIn: linkedin.com/in/amanyadavkr098
+* Email: [amanyadavkr098@gmail.com](mailto:amanyadavkr098@gmail.com)
