@@ -37,6 +37,7 @@ I'm interested in Machine Learning, Computer Vision, and software development. I
 <p align="center">
   <img src="https://raw.githubusercontent.com/amanyadavkr098-bot/amanyadavkr098-bot/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
 ## Connect
 
 * Email: [amanyadavkr098@gmail.com](mailto:amanyadavkr098@gmail.com)
