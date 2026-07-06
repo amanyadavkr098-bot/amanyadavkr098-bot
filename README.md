@@ -32,11 +32,6 @@ I'm interested in Machine Learning, Computer Vision, and software development. I
 * Built projects in Machine Learning, Computer Vision, and data analysis
 * Contributed to open-source projects through issues and pull requests
 * Participated in hackathons and coding competitions
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amanyadavkr098-bot/amanyadavkr098-bot/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ## Connect
 
