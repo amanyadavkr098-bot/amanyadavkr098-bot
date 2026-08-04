@@ -33,6 +33,9 @@ I'm interested in Machine Learning, Computer Vision, and software development. I
 * Contributed to open-source projects through issues and pull requests
 * Participated in hackathons and coding competitions
 
+## 📜 Certifications
+[![Oracle AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-red?style=for-the-badge&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=CAF8166100D42C8AAD28CA25F962121D4F71A739539958093AFC01432E24858F)
+
 ## Connect
 
 * Email: [amanyadavkr098@gmail.com](mailto:amanyadavkr098@gmail.com)
